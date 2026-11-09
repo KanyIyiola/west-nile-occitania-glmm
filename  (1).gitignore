@@ -1,0 +1,7 @@
+# Never publish real data or outputs derived from it
+data_raw/
+results/
+*.RData
+*.rds
+*.Rhistory
+.Rproj.user/
