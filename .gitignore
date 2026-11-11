@@ -1,0 +1,5 @@
+data_raw/
+results/
+*.RData
+*.rds
+.Rproj.user/
